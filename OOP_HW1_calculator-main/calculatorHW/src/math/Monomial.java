@@ -78,4 +78,8 @@ public class Monomial {
         return exponent;
     }
 
+    public Scalar getCoefficient(){
+        return coefficient;
+    }
+
 }
